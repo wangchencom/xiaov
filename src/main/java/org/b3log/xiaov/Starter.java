@@ -35,6 +35,7 @@ import java.io.File;
  * @version 1.0.0.2, Apr 5, 2018
  * @since 2.2.0
  */
+//开始
 public class Starter {
 
     static {
